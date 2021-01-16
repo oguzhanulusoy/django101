@@ -1,0 +1,22 @@
++-----------------------+
+|						|
+|	  kullanicilar		|
+|						|
++-----------------------+
+
+# superuser
+sysadm
+123456Sysadm
+
+# staff (yalnizca ornek modeli kontrol edebiliyor)
+user1
+123456Sysadm
+
+# sıradan kullanici (admin panele giremez bile)
+user2 
+123456Sysadm
+
+login olan herhangi bir kullanici /test girebilir
+login olmayan bir kisi /test'e istek atinca
+/error'a yonelecek
+
